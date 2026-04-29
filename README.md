@@ -1,4 +1,4 @@
-# LOTTE rental Logo Assets
+# Logo Assets
 
 Transparent PNG logo assets for HTML usage.
 
