@@ -10,6 +10,7 @@ Transparent PNG logo assets for HTML usage.
 - `assets/mockups/monthly-rental-guide-mockup.png`
 - `assets/characters/rental-character-sunglasses.png`
 - `assets/characters/rental-character-smile.png`
+- `assets/characters/rental-character-business.png`
 
 ## Raw URL
 
@@ -59,6 +60,11 @@ Character references:
   src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/characters/rental-character-smile.png"
   alt="Smiling rental character"
 >
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/characters/rental-character-business.png"
+  alt="Business rental character"
+>
 ```
 
 ## jsDelivr CDN
@@ -84,6 +90,11 @@ Character CDN references:
 <img
   src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/characters/rental-character-smile.png"
   alt="Smiling rental character"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/characters/rental-character-business.png"
+  alt="Business rental character"
 >
 ```
 
