@@ -14,6 +14,7 @@ Transparent PNG logo assets for HTML usage.
 - `assets/characters/rental-character-sunglasses.png`
 - `assets/characters/rental-character-smile.png`
 - `assets/characters/rental-character-business.png`
+- `assets/profiles/kyle-kim-profile.jpg`
 
 ## Raw URL
 
@@ -92,6 +93,16 @@ Character references:
 >
 ```
 
+Profile reference:
+
+```html
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/profiles/kyle-kim-profile.jpg"
+  alt="Kyle Kim profile photo"
+  width="330"
+>
+```
+
 ## jsDelivr CDN
 
 For a cleaner CDN URL after the repository is public:
@@ -142,6 +153,16 @@ Character CDN references:
 <img
   src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/characters/rental-character-business.png"
   alt="Business rental character"
+>
+```
+
+Profile CDN reference:
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/profiles/kyle-kim-profile.jpg"
+  alt="Kyle Kim profile photo"
+  width="330"
 >
 ```
 
