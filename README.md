@@ -6,6 +6,9 @@ Transparent PNG logo assets for HTML usage.
 
 - `assets/lotte-rental-logo-red.png`
 - `assets/lotte-rental-logo-gray.png`
+- `assets/logos/lotte-rental-stacked-red.png`
+- `assets/logos/lotte-rental-stacked-gray.png`
+- `assets/logos/lotte-rental-stacked-white.png`
 - `assets/mockups/mycar-save-guide-mockup.png`
 - `assets/mockups/monthly-rental-guide-mockup.png`
 - `assets/characters/rental-character-sunglasses.png`
@@ -31,6 +34,28 @@ Gray version:
   src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/lotte-rental-assets/main/assets/lotte-rental-logo-gray.png"
   alt="LOTTE rental"
   width="240"
+>
+```
+
+Stacked logo versions:
+
+```html
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/logos/lotte-rental-stacked-red.png"
+  alt="LOTTE rental"
+  width="185"
+>
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/logos/lotte-rental-stacked-gray.png"
+  alt="LOTTE rental"
+  width="185"
+>
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/logos/lotte-rental-stacked-white.png"
+  alt="LOTTE rental"
+  width="185"
 >
 ```
 
@@ -76,6 +101,28 @@ For a cleaner CDN URL after the repository is public:
   src="https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/lotte-rental-assets@main/assets/lotte-rental-logo-red.png"
   alt="LOTTE rental"
   width="240"
+>
+```
+
+Stacked logo CDN references:
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/logos/lotte-rental-stacked-red.png"
+  alt="LOTTE rental"
+  width="185"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/logos/lotte-rental-stacked-gray.png"
+  alt="LOTTE rental"
+  width="185"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/logos/lotte-rental-stacked-white.png"
+  alt="LOTTE rental"
+  width="185"
 >
 ```
 
