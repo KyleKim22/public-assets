@@ -15,6 +15,8 @@ Transparent PNG logo assets for HTML usage.
 - `assets/characters/rental-character-smile.png`
 - `assets/characters/rental-character-business.png`
 - `assets/profiles/kyle-kim-profile.jpg`
+- `assets/service/lotte-rental-shuttle.png`
+- `assets/service/lotte-rental-return.png`
 
 ## Raw URL
 
@@ -103,6 +105,22 @@ Profile reference:
 >
 ```
 
+Service image references:
+
+```html
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/service/lotte-rental-shuttle.png"
+  alt="LOTTE rental shuttle bus"
+  width="740"
+>
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/service/lotte-rental-return.png"
+  alt="LOTTE rental return service"
+  width="740"
+>
+```
+
 ## jsDelivr CDN
 
 For a cleaner CDN URL after the repository is public:
@@ -163,6 +181,22 @@ Profile CDN reference:
   src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/profiles/kyle-kim-profile.jpg"
   alt="Kyle Kim profile photo"
   width="330"
+>
+```
+
+Service image CDN references:
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/service/lotte-rental-shuttle.png"
+  alt="LOTTE rental shuttle bus"
+  width="740"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/service/lotte-rental-return.png"
+  alt="LOTTE rental return service"
+  width="740"
 >
 ```
 
