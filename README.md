@@ -17,6 +17,7 @@ Transparent PNG logo assets for HTML usage.
 - `assets/profiles/kyle-kim-profile.jpg`
 - `assets/service/lotte-rental-shuttle.png`
 - `assets/service/lotte-rental-return.png`
+- `assets/service/orix-rentacar-exterior.jpg`
 
 ## Raw URL
 
@@ -119,6 +120,12 @@ Service image references:
   alt="LOTTE rental return service"
   width="740"
 >
+
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/service/orix-rentacar-exterior.jpg"
+  alt="ORIX Rent-A-Car exterior"
+  width="1179"
+>
 ```
 
 ## jsDelivr CDN
@@ -197,6 +204,12 @@ Service image CDN references:
   src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/service/lotte-rental-return.png"
   alt="LOTTE rental return service"
   width="740"
+>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/service/orix-rentacar-exterior.jpg"
+  alt="ORIX Rent-A-Car exterior"
+  width="1179"
 >
 ```
 
