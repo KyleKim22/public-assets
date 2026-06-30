@@ -10,6 +10,7 @@ Transparent PNG logo assets for HTML usage.
 - `assets/logos/lotte-rental-stacked-gray.png`
 - `assets/logos/lotte-rental-stacked-white.png`
 - `assets/logos/lotte-rental-korea-bi.png`
+- `assets/logos/lotte-rental-horizontal-red.png`
 - `assets/mockups/mycar-save-guide-mockup.png`
 - `assets/mockups/monthly-rental-guide-mockup.png`
 - `assets/characters/rental-character-sunglasses.png`
@@ -71,6 +72,16 @@ Korea BI logo:
   src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/logos/lotte-rental-korea-bi.png"
   alt="LOTTE Rent-A-Car Korea BI"
   width="333"
+>
+```
+
+Horizontal red logo:
+
+```html
+<img
+  src="https://raw.githubusercontent.com/KyleKim22/public-assets/main/assets/logos/lotte-rental-horizontal-red.png"
+  alt="LOTTE Rental horizontal logo"
+  width="873"
 >
 ```
 
@@ -180,6 +191,16 @@ Korea BI logo CDN reference:
   src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/logos/lotte-rental-korea-bi.png"
   alt="LOTTE Rent-A-Car Korea BI"
   width="333"
+>
+```
+
+Horizontal red logo CDN reference:
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/KyleKim22/public-assets@main/assets/logos/lotte-rental-horizontal-red.png"
+  alt="LOTTE Rental horizontal logo"
+  width="873"
 >
 ```
 
